@@ -1,0 +1,15 @@
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:1DelFin1/product-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/1DelFin1/order-service.git
+[submodule "frontend-marketplace"]
+	path = frontend-marketplace
+	url = git@github.com:1DelFin1/frontend-marketplace.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:1DelFin1/user-service.git
+[submodule "review-service"]
+	path = review-service
+	url = git@github.com:1DelFin1/review-service.git
